@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyentranminhchien.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Fri, 16 Sep 2022 03:05:02 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Oct 2022 03:13:21 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>TUYÊN TRUYỀN PHÒNG CHỐNG ĐUỐI NƯỚC Ở TRẺ EM</title>
+		<title>GIỚI THIỆU TOP NHỮNG CẢNH ĐẸP NHẤT QUẢNG NGÃI KHÔNG THỂ QUÊN</title>
 		<link>https://nguyentranminhchien.github.io/mywordpress/2022/09/06/tuyen-truyen-phong-chong-duoi-nuoc-o-tre-em/</link>
 					<comments>https://nguyentranminhchien.github.io/mywordpress/2022/09/06/tuyen-truyen-phong-chong-duoi-nuoc-o-tre-em/#respond</comments>
 		
@@ -158,7 +158,7 @@
 					<div class="wp-block-navigation__responsive-dialog" aria-label="Menu">
 							<button aria-label="Đóng menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
 						<div class="wp-block-navigation__responsive-container-content" id="modal-14-content">
-							<ul class="wp-block-navigation__container"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://nguyentranminhchien.github.io/mywordpress/"><span class="wp-block-navigation-item__label">Blog</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://nguyentranminhchien.github.io/mywordpress/"><span class="wp-block-navigation-item__label">Blog</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://nguyentranminhchien.github.io/mywordpress/blog/"><span class="wp-block-navigation-item__label">Home</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://nguyentranminhchien.github.io/mywordpress/blog/"><span class="wp-block-navigation-item__label">Home</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://nguyentranminhchien.github.io/mywordpress/demo/"><span class="wp-block-navigation-item__label">Demo</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://nguyentranminhchien.github.io/mywordpress/elementor-129/"><span class="wp-block-navigation-item__label">Minh Chiến</span></a></li></ul>
+							<ul class="wp-block-navigation__container"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://nguyentranminhchien.github.io/mywordpress/"><span class="wp-block-navigation-item__label">Blog</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://nguyentranminhchien.github.io/mywordpress/"><span class="wp-block-navigation-item__label">Blog</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://nguyentranminhchien.github.io/mywordpress/demo/"><span class="wp-block-navigation-item__label">Demo</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://nguyentranminhchien.github.io/mywordpress/elementor-129/"><span class="wp-block-navigation-item__label">Minh Chiến</span></a></li></ul>
 						</div>
 					</div>
 				</div>
