@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyentranminhchien.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 05 Oct 2022 03:13:21 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Oct 2022 03:52:47 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,8 +29,209 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://nguyentranminhchien.github.io/mywordpress/?p=134</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[1. ALL WEATHER TERRAIN BRAKER AS/PRO Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. 2. PERFECT TITANIUM WHEEL COVER (14, 16, 18 [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="134" class="elementor elementor-134">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-1a3397f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a3397f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9d48f59" data-id="9d48f59" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9eaa17b elementor-widget elementor-widget-heading" data-id="9eaa17b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h3 class="elementor-heading-title elementor-size-default">1. ALL WEATHER TERRAIN BRAKER AS/PRO</h3>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-74d4bd8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="74d4bd8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ccbb5a4" data-id="ccbb5a4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ab5fdef elementor-widget elementor-widget-image" data-id="ab5fdef" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="350" height="350" src="https://nguyentranminhchien.github.io/mywordpress/wp-content/uploads/2022/10/prod1_deposit_opt-350x350-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-99cd3ba" data-id="99cd3ba" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9d50f1d elementor-widget elementor-widget-text-editor" data-id="9d50f1d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c4ce68b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c4ce68b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-414eec3" data-id="414eec3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8243a2c elementor-widget elementor-widget-heading" data-id="8243a2c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">2. PERFECT TITANIUM WHEEL COVER (14, 16, 18 INCHES)</h3>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e157eb4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e157eb4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6f5e221" data-id="6f5e221" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b5d1527 elementor-widget elementor-widget-text-editor" data-id="b5d1527" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-57b2658" data-id="57b2658" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2fc4c2b elementor-widget elementor-widget-image" data-id="2fc4c2b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="350" height="350" src="https://nguyentranminhchien.github.io/mywordpress/wp-content/uploads/2022/10/prod5_opt-350x350-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8a41e0b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8a41e0b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1a961e2" data-id="1a961e2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-24c5845 elementor-widget elementor-widget-heading" data-id="24c5845" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">3. AIR INTAKE PUMP (GENERAL ELECTRIC AIP-1255-2)</h3>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b6acb1d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b6acb1d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-36aa9b4" data-id="36aa9b4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8dd9f17 elementor-widget elementor-widget-image" data-id="8dd9f17" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="350" height="350" src="https://nguyentranminhchien.github.io/mywordpress/wp-content/uploads/2022/10/prod_2_deposit_opt-350x350-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-220f4f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="220f4f5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-13127ea" data-id="13127ea" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f348a1d elementor-widget elementor-widget-heading" data-id="f348a1d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">4. BRAKING BLOCKS (MAINTENANCE KIT)</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8573fe3 elementor-widget elementor-widget-text-editor" data-id="8573fe3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The Alumalite Big Step Side Bars install in minutes, providing great looks, convenience and safety for your vehicle.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-45e6fe9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45e6fe9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d6acbdd" data-id="d6acbdd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3aa969c elementor-widget elementor-widget-image" data-id="3aa969c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="350" height="350" src="https://nguyentranminhchien.github.io/mywordpress/wp-content/uploads/2022/10/prod6_opt-350x350-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9828110" data-id="9828110" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a080414 elementor-widget elementor-widget-image" data-id="a080414" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="980" height="980" src="https://nguyentranminhchien.github.io/mywordpress/wp-content/uploads/2022/10/brake3.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7c092fb" data-id="7c092fb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-95e2078 elementor-widget elementor-widget-image" data-id="95e2078" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="980" height="980" src="https://nguyentranminhchien.github.io/mywordpress/wp-content/uploads/2022/10/brake.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-933609d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="933609d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-214efc6" data-id="214efc6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8802a85 elementor-widget elementor-widget-heading" data-id="8802a85" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">5. SPORT BODY PARTS FO SHEVROLET 2015-2017</h3>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1d16738 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1d16738" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0ff4473" data-id="0ff4473" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4c366ac elementor-widget elementor-widget-image" data-id="4c366ac" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="980" height="980" src="https://nguyentranminhchien.github.io/mywordpress/wp-content/uploads/2022/10/prod7_deposit_opt.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c402a37 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c402a37" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b868d05" data-id="b868d05" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a3254f4 elementor-widget elementor-widget-heading" data-id="a3254f4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">6. AUDIO MASTER 2 (MULTI FORMAT ANDROID)</h3>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c8c535b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c8c535b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-14691af" data-id="14691af" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-513b4b2 elementor-widget elementor-widget-image" data-id="513b4b2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="768" height="768" src="https://nguyentranminhchien.github.io/mywordpress/wp-content/uploads/2022/10/prod4_opt-768x768-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c292258" data-id="c292258" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9f83cbc elementor-widget elementor-widget-text-editor" data-id="9f83cbc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-06a9dfd" data-id="06a9dfd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-956a7bc elementor-widget elementor-widget-image" data-id="956a7bc" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="768" height="768" src="https://nguyentranminhchien.github.io/mywordpress/wp-content/uploads/2022/10/videoplayer-768x768-1.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
 					<wfw:commentRss>https://nguyentranminhchien.github.io/mywordpress/2022/09/06/tuyen-truyen-phong-chong-duoi-nuoc-o-tre-em/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
